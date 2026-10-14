@@ -1,5 +1,5 @@
+# Only owner-approved, final media lives here. Keep raw footage and secrets out.
 *.png
-*.mp4
 *.mov
 .env
 *.json
